@@ -19,7 +19,7 @@ To use the Login Form in your project, follow these steps:
 1. Clone this repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/your-username/login-form.git
+   git clone https://github.com/abdul-1432/project-1/blob/main/home.html
    ```
 
 2. Navigate to the project directory:
