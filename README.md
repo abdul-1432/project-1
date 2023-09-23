@@ -80,7 +80,7 @@ Contributions to this project are welcome! If you have any improvements or new f
 
 ## Contact
 
-If you have any questions or need assistance with this project, feel free to contact us at [gafoor.mngr@gmail.com](mailto:your-email@example.com).
+If you have any questions or need assistance with this project, feel free to contact us at [gafoor.mngr@gmail.com](mailto:gafoor.mngr@gmail.com).
 
 ---
 
